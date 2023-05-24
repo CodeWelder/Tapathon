@@ -2,7 +2,7 @@
 Tapathon is a multiplayer game built with p5.js where players compete against each other to tap their buttons as fast as possible. The player who reaches 100 taps faster wins the game!
 
 ## How to Play
-1. Open the Tapathon game in a web browser.
+1. Open the Tapathon game in a web browser - https://codewelder.github.io/Tapathon/.
 2. Two buttons will be displayed on the screen, one for each player.
 3. Players must tap their respective buttons as quickly as possible.
 4. The progress bars will display the performance of each player.
